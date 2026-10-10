@@ -65,7 +65,3 @@ Create a new account in the app, or use the registration form.
 - DELETE /api/transactions/:id
 - GET /api/transactions/summary
 - GET /api/transactions/categories
-
-## Notes
-
-The app keeps the project simple and beginner-friendly, with a very small codebase and straightforward data model.
